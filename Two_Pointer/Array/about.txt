@@ -1,1 +1,18 @@
+📌 About
+The Two Pointer Technique is an important problem-solving pattern in Data Structures and Algorithms (DSA). It uses two pointers (indices) to traverse an array efficiently and solve problems with optimized time complexity.
+Instead of using nested loops, we can often solve problems using two pointers, reducing the time complexity from O(n²) to O(n).
 
+💡 When to Use?
+When working with sorted arrays.
+When searching for pairs or triplets.
+When reversing or modifying arrays.
+When removing duplicates.
+When optimizing nested loop solutions.
+
+mainly used in this repo.
+A. Opposite Direction (Left and Right Pointers)
+Initialization:
+left = 0
+right = n - 1
+
+B. Same Direction (Slow and Fast / Read and Write)
